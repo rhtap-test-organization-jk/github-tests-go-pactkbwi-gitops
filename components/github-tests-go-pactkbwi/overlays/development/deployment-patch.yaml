@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/github-tests-go-pactkbwi:dc811ec03e1963857bcdc8132705aa5690abf1f5@sha256:e5636cac72328c92cbafba28a11382fb4732d84c769868d38ac748a5d3cd6b01
+        - image: quay.io/rhtap_qe/github-tests-go-pactkbwi:d9e0d301b2590bb9cb13a51c1021be12e56cdcf0@sha256:a417f0d9d2249b283f004771946bb7c1680432a1a79fe750ceabaec7779624dc
           name: container-image
